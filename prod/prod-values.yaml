@@ -1,2 +1,6 @@
 service:
   type: LoadBalancer
+
+env: prod
+
+replicaCount: 5
